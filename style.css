@@ -1,0 +1,76 @@
+body{
+    margin: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+.pink{
+    color: rgb(243, 59, 90);
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size:40px;
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration:none;
+    background-color: rgb(243, 59, 90);
+    color: white;
+    font-size: 20px;
+    padding: 8px 20px;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+    
+}
+.biography-area{
+    background-image:url(images/biography-bg.png);
+}
+.latest-work-area{
+    background-image: url(images/latest-work-bg.png);
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+}
+.small-width{
+    width:25%;
+    float:left;
+    margin-left: 5%;
+    padding-left:  2%;
+}
+.small-width img{
+    width: 100%;
+}
+h3{
+    text-align: center;
+    font-size: 25px;
+}
+.Last-part{
+    text-align: center;
+}
+.add-mail{
+    text-align:center;
+    background-color:rgb(243, 59, 90) ;
+    color: white;
+    width: 500px;
+    padding: 5px;
+    margin:0 auto;
+    border-radius: 5px;
+}
+.client-area{
+    background-image: url(images/header-bg.png);
+}
+#center-text{
+    text-align: center;
+    font-size: 12px;
+}
